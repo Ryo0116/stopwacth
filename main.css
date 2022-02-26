@@ -1,0 +1,19 @@
+.container{
+  background-color: #ECECEA;
+  width: 300px;
+  padding: 5px;
+}
+#timer{
+  margin: 40px;
+  font-size: 50px;
+  background-color: black;
+  color:#FFF;
+  padding: 10px;
+}
+
+button{
+  color: #E5CD52;
+  background-color: black;
+  margin: 10px;
+  padding: 5px;
+}
